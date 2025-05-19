@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Cr.APISIT 
+#Cr.APISIT {*}("https://account.jetbrains.com/licenses")
+**"text"{domain"Jetbrain.com}"
+
